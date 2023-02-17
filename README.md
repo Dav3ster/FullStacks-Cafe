@@ -4,7 +4,7 @@
 Link to deployed app on Heroku: [![HerokuButton](./public/images/button.svg)](https://fullstackscafe.herokuapp.com/home.html)
 
 ## Description
-This full stack application serves as an ordering system for a cafe. This MVP iteration works as an ordering app on in-house kiosks at each table, customers can select their order and send it  to the kitchen where each order can be reviewd on a command line interface system. This application is scalable to become a full service online ordering website and menu page, as well as being tied in to an automated ticket printer.
+This full stack application serves as an ordering system for a cafe. This MVP iteration works as an ordering app on in-house kiosks at each table, customers can select their order and send it  to the kitchen where each order can be reviewed on a command line interface system. This application is scalable to become a full service online ordering website and menu page, as well as being tied in to an automated ticket printer.
 
 ![Image](./public/images/readmephoto.png)
 
